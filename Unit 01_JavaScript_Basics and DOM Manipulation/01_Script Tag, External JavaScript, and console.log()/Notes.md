@@ -11,7 +11,7 @@
 ![External Advantages](07_External_JavaScript_Advantages.png)
 ![External References](08_External_References.png)
 [Example](https://www.w3schools.com/js/tryit.asp?filename=tryjs_whereto_url)
-[Example](https://www.w3schools.com/js/tryit.asp=filename=tryjs_whereto_url_relative)
+[Example](https://www.w3schools.com/js/tryit.asp?filename=tryjs_whereto_url)
 [Example](https://www.w3schools.com/js/tryit.asp?filename=tryjs_whereto_external)
 ![Using console.log](09_Using_console.log.png)
 [Example](https://www.w3schools.com/js/tryit.asp?filename=tryjs_output_console)
