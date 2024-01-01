@@ -1,1 +1,1 @@
-<img src="01_The Script Tag.png" width="720">
+![The Script Tag](01_The Script Tag.png)
